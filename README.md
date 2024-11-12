@@ -12,6 +12,11 @@ PW:12345678a
 
 講演会のオンデマンド
 
+
+# 用件定義書  
+
+【スライドを見る】https://docs.google.com/presentation/d/1H_QZGdcp34LBky65rp3nQ6tj4ElHFBcy/edit?usp=sharing&ouid=116548674171660322110&rtpof=true&sd=true
+
 # 開発環境・使用言語  
 
 MAMP  
