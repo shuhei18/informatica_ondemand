@@ -1,4 +1,4 @@
-# informatica講演会オンデマンド
+# 講演会オンデマンド
 https://greenjackal32.sakura.ne.jp/test/IWT2024_ondemand/index.php  
 
 ※ログイン時、下記にてログインしてください。  
